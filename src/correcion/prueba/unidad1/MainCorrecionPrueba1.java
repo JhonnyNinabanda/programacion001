@@ -35,7 +35,7 @@ public class MainCorrecionPrueba1 {
 					}else {
 						
 						S = S + N;
-						P = S / i;
+						P = (float) S / i;
 						C = C+1;
 					}
 				}

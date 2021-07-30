@@ -40,7 +40,7 @@ public class MainCorrecionPrueba2 {
 					}else {
 						SI = SI+N;
 						CI = CI+1;
-						PI = SI/CI;
+						PI = (float) SI/CI;
 						
 					}
 				}
