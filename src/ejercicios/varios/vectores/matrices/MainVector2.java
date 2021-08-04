@@ -8,8 +8,8 @@ public class MainVector2 {
 		// TODO Auto-generated method stub
 
 		// 1. declare un vector X cuya longuitud se solicite al usuario, de tipo int
-				// y construya un programa que pida al usuario ingrese los valores para cada posicion
-				// y finalmente que se imprima los valores ingresados
+		// y construya un programa que pida al usuario ingrese los valores para cada posicion
+		// y finalmente que se imprima los valores ingresados
 			
 				Scanner Lector = new Scanner(System.in);
 				
@@ -34,7 +34,7 @@ public class MainVector2 {
 					
 				}
 			
-				for (int i=0; i<3; i++) {
+				for (int i=0; i<N; i++) {
 					
 					System.out.println("El valor de la posicion: " +i);
 					System.out.println(X[i]);
