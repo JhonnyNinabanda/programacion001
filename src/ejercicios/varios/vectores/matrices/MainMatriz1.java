@@ -23,16 +23,12 @@ public class MainMatriz1 {
 				
 			}
 		}
-
 		for(int fila =0; fila<3; fila++) {
 			for(int columna =0; columna<4; columna++) {
 					
-			System.out.println("El valor de fila: " +fila+ " y columna : " + columna + " es: "  + A[fila][columna]);
-
 			System.out.print(A[fila][columna] + " ");
 	}
 			System.out.println();
-
 }	
 }
 }
