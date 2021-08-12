@@ -10,7 +10,7 @@ public class Notas {
 		// Si existe notas 
 		
 		Impresora impresion1 = new Impresora(); // Instanciar la clase
-		impresion1.Imprimir("Programacion I, Analisis I", 11);
+		impresion1.Imprimir("Programacion I:20, Analisis I:17", 11);
 		
 	}
 
