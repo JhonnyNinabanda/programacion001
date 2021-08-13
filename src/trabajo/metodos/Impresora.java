@@ -2,6 +2,10 @@ package trabajo.metodos;
 
 public class Impresora {
 	
+	public Impresora() {
+
+	}
+	
 	public void imprimir(String datosAImprimir, int numerodeAsiento) {
 		System.out.println("Estadio Da Luz");
 		System.out.println("**************");
@@ -9,6 +13,7 @@ public class Impresora {
 		System.out.println("Nro Asiento: " +numerodeAsiento);
 		System.out.println("***********");
 		System.out.println("Entrada Cancelada");
+		
 
 }
 }

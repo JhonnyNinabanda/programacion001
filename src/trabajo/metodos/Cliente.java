@@ -2,6 +2,10 @@ package trabajo.metodos;
 
 public class Cliente {
 	
+	public Cliente() {
+
+	}
+
 	public void Cliente (String datosCliente, int nroCedula) {
 		System.out.println("Aficcionado");
 		System.out.println("*****************");
@@ -9,6 +13,7 @@ public class Cliente {
 		System.out.println(nroCedula);
 		System.out.println("*****************");
 		System.out.println("El futbol es Vida");
+		
 
 }
 }
