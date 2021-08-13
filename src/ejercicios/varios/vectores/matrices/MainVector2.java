@@ -7,7 +7,7 @@ public class MainVector2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		// 1. declare un vector X cuya longuitud se solicite al usuario, de tipo int
+		// 1. Declare un vector X cuya longuitud se solicite al usuario, de tipo int
 		// y construya un programa que pida al usuario ingrese los valores para cada posicion
 		// y finalmente que se imprima los valores ingresados
 			
