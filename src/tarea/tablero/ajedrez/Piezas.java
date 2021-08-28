@@ -1,8 +1,10 @@
 package tarea.tablero.ajedrez;
 
-public class Piezas {
+public abstract class Piezas {
 	
 	private String nombrePieza;
 	private String colorPieza;
+	
+	public abstract void  avanzar();
 
 }

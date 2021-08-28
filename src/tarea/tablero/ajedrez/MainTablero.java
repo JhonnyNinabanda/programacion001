@@ -131,8 +131,8 @@ public class MainTablero {
 		}
 	System.out.println();
 	
-	};
+		}
 
-}
+	}
 }
 
