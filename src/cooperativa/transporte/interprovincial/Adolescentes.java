@@ -24,6 +24,10 @@ public class Adolescentes extends Pasajeros {
 	public void setDeportePractica(String deportePractica) {
 		this.deportePractica = deportePractica;
 	}
+	@Override
+	public String toString() {
+		return "Adolescentes [nombre=" + nombre + "]";
+	}
 
 	
 	

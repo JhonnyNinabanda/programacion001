@@ -29,8 +29,13 @@ public class Adultos extends Pasajeros {
 	public String getEmpresaTrabajo() {
 		return empresaTrabajo;
 	}
+
 	public void setEmpresaTrabajo(String empresaTrabajo) {
 		this.empresaTrabajo = empresaTrabajo;
+	}
+	@Override
+	public String toString() {
+		return "Adultos [nombre=" + nombre + "]";
 	}
 	
 	
